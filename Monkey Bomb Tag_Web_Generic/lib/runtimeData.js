@@ -5,7 +5,7 @@ const runtimeData = (function () {
         // Basic information.
         companyName: "DefaultCompany",
         productName: "Monkey Bomb Tag",
-        productVersion: "0.1",
+        productVersion: "1.0",
         sdkVersion: "3.19.12+merge4",
         productDescription: "",
 
@@ -21,7 +21,7 @@ const runtimeData = (function () {
 
         // Visual information.
         logoType: "LOGO_TYPE",
-        iconTextureName: "game_logo_256x256.png",
+        iconTextureName: "ic-2.png",
         backgroundTextureName: "background_1280x720.png",
 
         // Aspect ratio.
